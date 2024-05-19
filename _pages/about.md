@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>MRes Synthetic Biology Student at UCL.
 
 profile:
-  align: right
-  image: prof_pic.jpeg
+  align: left
+  image: prof_pict.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>109 Camden Road</p>
